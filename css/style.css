@@ -1,0 +1,28 @@
+p{
+  line-height: 2rem;
+}
+nav ul a,
+nav .brand-logo{
+  color: #eeeeee;
+}
+.sidenav-trigger{
+  color: #26a69a;
+}
+.parallax-container{
+  min-height: 580px;
+  line-height: 0;
+  height: auto;
+  color: rgba(000,000,000,.9);
+}
+.parallax-container .section{
+    width: 100%;
+}
+.icon-block{
+  padding: 0 15px;
+}
+.icon-block .material-icons{
+  font-size: inherit;
+}
+.icon-block p{
+  text-align: justify;
+}
